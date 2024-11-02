@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Alex!<br><br>- 🌱 Currently studyng [Computer Science](https://www.hs-mainz.de/studium/studiengaenge/hochschulweite-studiengaenge/angewandte-informatik-bsc/uebersicht/) at the Hochschule Mainz, Germany</br>- 🔭 Currently working as a Teaching Assistant at [DataSmartPoint GmbH](https://www.datasmartpoint.com/).<br>- 🤓 Focused on web technologies projects, and currently learning Java and C.<br>- 👯 Looking to collaborate on open-source projects!
+### Hi, I'm Alex!<br><br>- 🌱 Currently studyng [Computer Science](https://www.hs-mainz.de/studium/studiengaenge/hochschulweite-studiengaenge/angewandte-informatik-bsc/uebersicht/) at the Hochschule Mainz, Germany.</br>- 🔭 Currently working as a Teaching Assistant at [DataSmartPoint GmbH](https://www.datasmartpoint.com/).<br>- 🤓 Focused on web technologies projects, and currently learning Java and C.<br>- 👯 Looking to collaborate on open-source projects!
 
 
 # 💻 Tech Stack:
