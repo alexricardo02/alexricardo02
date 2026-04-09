@@ -13,9 +13,9 @@
 
 # 🚀 Highlighted Projects:
 
-* **[Custom Drone Engineering](https://github.com/tu-usuario/nombre-del-repo)** *Hardware & Embedded Systems* | Construcción y programación de una drohne autónoma con Raspberry Pi y sensores (IMU/GPS).
+* **[Custom Drone Engineering]((https://github.com/alexricardo02/DIY-Drone-Project.git))** *Hardware & Embedded Systems* | Construcción y programación de una drohne autónoma con Raspberry Pi y sensores (IMU/GPS).
     
-* **[Criminalistic Web Dashboard](https://github.com/tu-usuario/nombre-del-repo)** *Full-Stack Development* | Aplicación interactiva con arquitectura PostgreSQL/MySQL y visualización en tiempo real.
+* **[Criminalistic Web Dashboard](https://github.com/alexricardo02/webtechnologien-pm-a-team-9.git)** *Full-Stack Development* | Aplicación interactiva con arquitectura PostgreSQL/MySQL y visualización en tiempo real.
     
 * **[2D-Game: JGU Winner](https://github.com/tu-usuario/nombre-del-repo)** *Software Design* | Proyecto ganador (1er puesto) desarrollado en Python/Pygame bajo principios de OOP.
     
