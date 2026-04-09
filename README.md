@@ -23,5 +23,5 @@
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexricardo02&layout=compact&theme=rose_pine&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexricardo02&layout=compact&theme=rose_pine&hide=html,css,javascript)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexricardo02&theme=tokyonight" alt="GitHub Streak" />
