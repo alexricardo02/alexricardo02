@@ -11,6 +11,11 @@
 ### Hardware & Tools
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+# 🚀 Highlighted Projects:
+- [cite_start]**Custom Drone Engineering:** Building autonomous flight systems with Raspberry Pi and sensor integration[cite: 55, 56].
+- [cite_start]**Criminalistic Web Dashboard:** Full-stack application with PostgreSQL and real-time visualization[cite: 57, 58].
+- [cite_start]**Financial Data Dashboard:** Automated tracking of non-profit finances for Inter Mainz e.V.[cite: 62, 63].
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexelricardo02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexelricardo02&theme=dark&hide_border=false)<br/>
