@@ -23,10 +23,10 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexricardo02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexricardo02&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexricardo02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexricardo02&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexricardo02&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexricardo02&theme=tokyonight" alt="GitHub Streak" />
