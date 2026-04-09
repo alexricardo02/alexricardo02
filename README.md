@@ -12,9 +12,14 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 🚀 Highlighted Projects:
-- **Custom Drone Engineering:** Building autonomous flight systems with Raspberry Pi and sensor integration.
-- **Criminalistic Web Dashboard:** Full-stack application with PostgreSQL and real-time visualization.
-- **Financial Data Dashboard:** Automated tracking of non-profit finances for Inter Mainz e.V..
+
+* **[Custom Drone Engineering](https://github.com/tu-usuario/nombre-del-repo)** *Hardware & Embedded Systems* | Construcción y programación de una drohne autónoma con Raspberry Pi y sensores (IMU/GPS).
+    
+* **[Criminalistic Web Dashboard](https://github.com/tu-usuario/nombre-del-repo)** *Full-Stack Development* | Aplicación interactiva con arquitectura PostgreSQL/MySQL y visualización en tiempo real.
+    
+* **[2D-Game: JGU Winner](https://github.com/tu-usuario/nombre-del-repo)** *Software Design* | Proyecto ganador (1er puesto) desarrollado en Python/Pygame bajo principios de OOP.
+    
+* **[Financial Data Dashboard](https://github.com/tu-usuario/nombre-del-repo)** *Data Analysis* | Automatización de finanzas para Inter Mainz e.V. usando dashboards interactivos.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexelricardo02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
