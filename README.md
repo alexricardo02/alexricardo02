@@ -22,6 +22,4 @@
 * **[Financial Data Dashboard]** *Data Analysis* | Financial automation for Inter Mainz e.V. utilizing interactive dashboards to track expenses and income.
 
 # 📊 GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexricardo02&layout=compact&theme=rose_pine&cache_seconds=1800)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexricardo02&theme=tokyonight" alt="GitHub Streak" />
