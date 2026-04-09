@@ -13,13 +13,13 @@
 
 # 🚀 Highlighted Projects:
 
-* **[Custom Drone Engineering]((https://github.com/alexricardo02/DIY-Drone-Project.git))** *Hardware & Embedded Systems* | Construcción y programación de una drohne autónoma con Raspberry Pi y sensores (IMU/GPS).
+* **[Custom Drone Engineering](https://github.com/alexricardo02/DIY-Drone-Project.git)** *Hardware & Embedded Systems* | Design and programming of an autonomous drone using Raspberry Pi and integrated sensors (IMU/GPS).
     
-* **[Criminalistic Web Dashboard](https://github.com/alexricardo02/webtechnologien-pm-a-team-9.git)** *Full-Stack Development* | Aplicación interactiva con arquitectura PostgreSQL/MySQL y visualización en tiempo real.
+* **[Criminalistic Web Dashboard](https://github.com/alexricardo02/webtechnologien-pm-a-team-9.git)** *Full-Stack Development* | Interactive application featuring PostgreSQL/MySQL architecture and real-time data visualization.
     
-* **[2D-Game: JGU Winner](https://github.com/tu-usuario/nombre-del-repo)** *Software Design* | Proyecto ganador (1er puesto) desarrollado en Python/Pygame bajo principios de OOP.
+* **[2D-Game: JGU Winner](https://github.com/alexricardo02/Iron-Fly-Game.git)** *Software Design* | Award-winning project (1st place) developed in Python/Pygame following OOP principles.
     
-* **[Financial Data Dashboard](https://github.com/tu-usuario/nombre-del-repo)** *Data Analysis* | Automatización de finanzas para Inter Mainz e.V. usando dashboards interactivos.
+* **[Financial Data Dashboard]** *Data Analysis* | Financial automation for Inter Mainz e.V. utilizing interactive dashboards to track expenses and income.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alexelricardo02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
