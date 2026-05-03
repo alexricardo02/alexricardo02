@@ -19,7 +19,7 @@
     
 * **[2D-Game: JGU Winner](https://github.com/alexricardo02/Iron-Fly-Game.git)** *Software Design* | Award-winning project (1st place) developed in Python/Pygame following OOP principles.
     
-* **[Finance Tracker](https://expenses-incomes-frontend.vercel.app/)** *Full-Stack & Backend Engineering* | Production-grade REST API for personal finance tracking. Built with Spring Boot, PostgreSQL, Redis caching, JWT auth, rate limiting, and pagination.
+* **[Personal Finance Tracker](https://expenses-incomes-frontend.vercel.app/)** *Full-Stack & Backend Engineering* | Production-grade REST API for personal finance tracking. Built with Spring Boot, PostgreSQL, Redis caching, JWT auth, rate limiting, and pagination.
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexricardo02&theme=tokyonight" alt="GitHub Streak" />
