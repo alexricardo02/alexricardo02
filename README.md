@@ -24,4 +24,4 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=alexricardo02&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=alexricardo02&theme=tokyonight)
