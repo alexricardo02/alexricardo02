@@ -24,6 +24,4 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexricardo02&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexricardo02&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alexricardo02&theme=tokyonight)
