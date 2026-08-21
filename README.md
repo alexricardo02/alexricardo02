@@ -13,13 +13,17 @@
 
 # 🚀 Highlighted Projects:
 
-* **[Custom Drone Engineering](https://github.com/alexricardo02/DIY-Drone-Project.git)** *Hardware & Embedded Systems* | Design and programming of an autonomous drone using Raspberry Pi and integrated sensors (IMU/GPS).
+* **[Custom Drone Engineering](https://github.com/alexricardo02/DIY-Drone-Project.git)** *Hardware & Embedded Systems* | Developing an autonomous FPV-hybrid UAV built on a carbon fiber racing chassis using a Pixhawk controller and ArduPilot. Currently optimizing flight stability through custom PID tuning and log analysis, with real-time telemetry and Raspberry Pi companion computer integration in progress.
+
+* **[Personal Finance Tracker](https://expenses-incomes-frontend.vercel.app/)** *Full-Stack & Backend Engineering* | A production-grade REST API for personal finance tracking engineered with Spring Boot and PostgreSQL to master advanced system design. Designed for enterprise reliability, it features JWT with rotating refresh tokens, Redis-backed caching, Bucket4j rate limiting, RabbitMQ async recalculation, and Resilience4j circuit breakers.
     
-* **[Criminalistic Web Dashboard](https://github.com/alexricardo02/webtechnologien-pm-a-team-9.git)** *Full-Stack Development* | Interactive application featuring PostgreSQL/MySQL architecture and real-time data visualization.
+* **[Gloo](https://github.com/alexricardo02/gloo.git)** *Full-Stack Development* | Building a mobile-first social nightlife app designed to connect groups through a Tinder-style discovery experience. The platform features a vertical snap-scroll carousel, an interactive real-time Leaflet map for live pre-parties, and built-in interactive party games. Developed with Next.js 15, a PostgreSQL database, and Supabase WebSockets for instant matching and live map updates.
     
 * **[2D-Game: JGU Winner](https://github.com/alexricardo02/Iron-Fly-Game.git)** *Software Design* | Award-winning project (1st place) developed in Python/Pygame following OOP principles.
     
-* **[Personal Finance Tracker](https://expenses-incomes-frontend.vercel.app/)** *Full-Stack & Backend Engineering* | Production-grade REST API for personal finance tracking. Built with Spring Boot, PostgreSQL, Redis caching, JWT auth, rate limiting, and pagination.
+
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexricardo02&theme=tokyonight" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexricardo02&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexricardo02&layout=compact&theme=tokyonight)
