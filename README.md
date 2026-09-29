@@ -17,7 +17,7 @@
 
 * **[Personal Finance Tracker](https://expenses-incomes-frontend.vercel.app/)** *Full-Stack & Backend Engineering* | A production-grade REST API for personal finance tracking engineered with Spring Boot and PostgreSQL to master advanced system design. Designed for enterprise reliability, it features JWT with rotating refresh tokens, Redis-backed caching, Bucket4j rate limiting, RabbitMQ async recalculation, and Resilience4j circuit breakers.
     
-* **[Gloo](https://github.com/alexricardo02/gloo.git)** *Full-Stack Development* | Building a mobile-first social nightlife app designed to connect groups through a Tinder-style discovery experience. The platform features a vertical snap-scroll carousel, an interactive real-time Leaflet map for live pre-parties, and built-in interactive party games. Developed with Next.js 15, a PostgreSQL database, and Supabase WebSockets for instant matching and live map updates.
+* **[Sailboat-IoT-Telemetry-Station](https://github.com/alexricardo02/Sailboat-IoT-Telemetry-Station.git)** *Hardware & Embedded Systems* | Autonomous, battery-powered telemetry unit for a sailboat. It monitors ambient temperature, humidity, and bilge water level, and reports the readings over a 2G/GPRS cellular connection three times a day. The system is designed to run for months on two 18650 Li-ion cells (in parallel) by spending nearly all of its time in deep sleep, waking on a timer or immediately on a bilge water alert. Sensor telemetry and alerts are displayed in a companion App.
     
 * **[2D-Game: JGU Winner](https://github.com/alexricardo02/Iron-Fly-Game.git)** *Software Design* | Award-winning project (1st place) developed in Python/Pygame following OOP principles.
     
